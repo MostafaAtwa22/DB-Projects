@@ -55,10 +55,4 @@ This repository will continue to grow with additional database projects covering
 - Advanced database optimization techniques
 - Real-world business case studies
 
-## 📝 Contributing
-
-Feel free to explore the projects and provide feedback or suggestions for improvements!
-
----
-
 *Last updated: August 2025*
